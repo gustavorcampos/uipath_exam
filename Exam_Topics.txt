@@ -1,0 +1,55 @@
+Advanced Data Manipulation 
+• Use LINQ for Lists and DataTables.  
+• Perform DateTime manipulation to parse dates, add or substract time and convert to and 
+from string type. 
+• Use Invoke Method and Invoke Code in projects. 
+• JSON object manipulation 
+
+Debugging 
+• Perform remote Debugging when building automation projects. 
+• Profile execution - debugging 
+                                                                                
+Advanced UI Automation 
+• Use AI Computer Vision features in projects (CV only automation) 
+• Build an UI Automation using Web Driver.  
+• Remote runtime
+ 
+Advanced Control Flow 
+• Describe the components of State Machines and when they should be used in projects. 
+• Build projects using State Machines. 
+ 
+REFramework 
+• Explain the use of the REFramework and the Dispatcher and Performer / Producer and 
+Consumer model. 
+• Describe the mechanisms of the REFramework template.  
+• Use Custom Log Fields in REFramework projects.  
+• Build a REFramework project with Orchestrator queues. 
+• Build a REFramework transactional project with tabular/collections data. 
+• Adapt a REFramework project to a linear process. 
+• Test a REFramework project with and without Orchestrator queues.
+  
+Orchestrator 
+• Use Tenant Entities (Webhooks, Alerts, Packages, etc) and Folder Entities (Triggers, 
+Credential Stores, etc). 
+• Use features for unattended automations (use of folders and job priorities, separation 
+between background and foreground processes, license allocation per machine). 
+• API Triggers 
+• Recording in Orchestrator (Queue tranx, jobs) 
+• Solutions Management 
+• Use Orchestrator monitoring features. 
+• Serverless and Cloud VM robots 
+• Tags 
+
+Attended Automation 
+• Long Running Workflows 
+• Trigger-based Automation 
+• UI Automation Apps Native Events Triggers (Run local triggers, Stop local triggers) 
+• Event Inspection Tool 
+• Assistant (widgets, configuration, marketplace, schedules) 
+• Picture in Picture 
+
+Other advanced concepts 
+• Solution Accelerators 
+• Data Service 
+• Coded workflow                                                                                 
+• REST APIs & Orchestrator HTTP request
