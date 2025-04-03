@@ -1,4 +1,4 @@
-Advanced Data Manipulation
+Advanced Data Manipulation - 
 • Use LINQ for Lists and DataTables.  
 • Perform DateTime manipulation to parse dates, add or substract time and convert to and 
 from string type. 
